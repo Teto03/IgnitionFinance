@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548001793957",
+    "project_id": "ignitionfinance",
+    "storage_bucket": "ignitionfinance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548001793957:android:7ebac16095dde3d2620a4c",
+        "android_client_info": {
+          "package_name": "com.unimib.ignitionfinance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWIDI7NXx63vpGW6HafdFzIKHfWuONahc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

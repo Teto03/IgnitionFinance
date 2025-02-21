@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application name and branding -->
+    <string name="app_name">Finance</string>
+    <string name="app_title">Ignition \nFinance</string>
+
+    <!-- Main navigation labels and titles -->
+    <string name="portfolio_label">Portfolio</string>
+    <string name="portfolio_title">My \nPortfolio</string>
+    <string name="summary_label">Summary</string>
+    <string name="summary_title">Your \nNet Worth</string>
+    <string name="simulation_label">Simulation</string>
+    <string name="simulation_title">FIRE \nSimulation</string>
+    <string name="settings_title">Settings</string>
+    <string name="validation_error_title">Check you Settings</string>
+    <string name="update_amount_title">Update the amount</string>
+
+    <!-- Screen descriptions and instructions -->
+    <string name="intro_description">
+        Calculate your path to financial independence: enter your wealth and simulate personalized scenarios.</string>
+    <string name="simulation_description">Before starting the simulation, ensure all parameters are correctly set in the settings.</string>
+    <string name="login_description"> Sign in using the email and password you used to sign up the first time. </string>
+    <string name="registration_description"> Make sure to check all the information you provide and accept the terms and conditions.</string>
+    <string name="reset_password_description"> Add the email you used to register to receive the reset password link</string>
+    <string name="Check_Setting_descriptions"> Before continue with the simulation check your settings</string>
+
+    <!-- Form input labels -->
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_name">Name</string>
+    <string name="label_surname">Surname</string>
+
+    <!-- Authentication related buttons and titles -->
+    <string name="forgot_password_button">Forgot Password?</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="reset_password_title">Reset Your Password</string>
+
+    <!-- Password visibility toggles -->
+    <string name="password_hide">Hide password</string>
+    <string name="password_show">Show password</string>
+
+    <!-- Floating Action Button (FAB) descriptions -->
+    <string name="add_FAB_description">Add</string>
+    <string name="swipe_up_FAB_description">Swipe Up</string>
+    <string name="settings_FAB_description">Settings</string>
+    <string name="go_back_FAB_description">Go back</string>
+    <string name="simulate_FAB_description">Start Simulation</string>
+    <string name="login_FAB_description">Login</string>
+    <string name="registration_FAB_description">Register</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="go_to_settings">Go to Settings</string>
+
+    <!-- Dialog related strings -->
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_dismiss">Dismiss</string>
+    <string name="dialog_new_value_label">New value</string>
+    <string name="dialog_update_amount">Update the amount</string>
+    <string name="dialog_add_product">Add your product</string>
+
+    <!-- UI component descriptions -->
+    <string name="intro_bg_description">Intro Screen Background</string>
+    <string name="content_description_collapse">Collapse</string>
+    <string name="content_description_expand">Expand</string>
+
+    <!-- Asset allocation related strings -->
+    <string name="asset_allocation_title">Asset allocation:</string>
+    <string name="asset_allocation_invested">Invested</string>
+    <string name="asset_allocation_cash">Cash</string>
+    <string name="fuck_you_money_label">Fuck you money (>95%):</string>
+
+    <!-- Performance related strings -->
+    <string name="performance_title">Performance:</string>
+    <string name="performance_average">Average</string>
+    <string name="performance_best">Best performer</string>
+    <string name="performance_worst">Worst performer</string>
+
+    <string name="currency_usd">$</string>
+    <string name="currency_chf">₣</string>
+    <string name="no_data">----</string>
+    <string name="label_usd">USD</string>
+    <string name="label_chf">CHF</string>
+    <string name="label_historical">Historical</string>
+    <string name="label_no_current_data">No current data</string>
+    <string name="invalid_date">Invalid Date</string>
+
+    <string name="delete_product">Delete Product</string>
+
+    <string name="label_swipe_animation">Swipe Animation</string>
+
+    <!-- Withdrawals strings (used in SettingsScreen) -->
+    <string name="withdraw_label">NORMAL, RETIREMENT</string>
+    <string name="withdraw_title">WITHDRAW</string>
+    <string name="monthly_withdrawals_no_pension">Monthly Withdrawals (No Pension)</string>
+    <string name="monthly_withdrawals_with_pension">Monthly Withdrawals (With Pension)</string>
+    <string name="currency_eur">€</string>
+
+    <!-- Inflation strings -->
+    <string name="inflation_select_label">NORMAL, SCALE, LOGNORMAL</string>
+    <string name="inflation_title">INFLATION</string>
+
+    <!-- Expenses strings -->
+    <string name="expenses_label">TAX RATE, STAMP DUTY, LOAD</string>
+    <string name="expenses_title">EXPENSES</string>
+    <string name="tax_rate_percentage">Tax Rate Percentage</string>
+    <string name="percentage_prefix">%</string>
+    <string name="stamp_duty_percentage">Stamp Duty Percentage</string>
+    <string name="load_percentage">Load Percentage</string>
+
+    <!-- Intervals strings -->
+    <string name="intervals_label">YEARS, RETIREMENT YEARS, BUFFER</string>
+    <string name="intervals_title">INTERVALS</string>
+    <string name="target_years">Target Years</string>
+    <string name="years_in_fire">Years in FIRE</string>
+    <string name="years_of_buffer">Years of Buffer</string>
+    <string name="years_prefix">YRS</string>
+
+    <!-- Simulations strings -->
+    <string name="simulations_label">NUMBER</string>
+    <string name="simulations_title">SIMULATIONS</string>
+    <string name="number_of_simulations">Number of Simulations to perform</string>
+    <string name="number_prefix">N°</string>
+</resources>
